@@ -1,6 +1,7 @@
 # A re-do of the Preserve Grayson website
 
-``Pseudocode of the landing page
+```
+Pseudocode of the landing page
 // Initialize the website
 function initializeWebsite():
     loadHeader()
